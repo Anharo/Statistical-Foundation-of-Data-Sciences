@@ -83,3 +83,12 @@ To implement statistical concepts step by step, understand their use in real-wor
 2. **Navigate into the project folder**
    ```bash
    cd Statistical-Foundation-of-Data-Sciences
+3. **Open the desired practical notebook**
+   Using Jupyter Notebook:
+   ```bash
+   jupyter notebook
+Then open the notebook manually, e.g.
+Practical 1 Testing Pandas and Numpy/Practical_1.ipynb
+
+Using Google Colab:
+Upload the .ipynb file from the folder into Colab and run it there.
