@@ -36,7 +36,7 @@ All work was completed in **Google Colab** using Python libraries such as **NumP
    ```python
    mean_salary = df["Salary"].mean(skipna=True)
    std_salary = df["Salary"].std(skipna=True)
-  Then, I computed the z-scores for each value in the Salary column using the formula:
+Then, I computed the z-scores for each value in the Salary column using the formula:
                 z= (x-𝜇)/σ          	​
 - Counted outliers using the rule `|z| > 3`.  
 - Ensured no unnecessary row deletions by using `dropna()` only on relevant columns.  
