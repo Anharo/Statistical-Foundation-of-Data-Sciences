@@ -83,3 +83,7 @@ To implement statistical concepts step by step, understand their use in real-wor
 2. **Navigate into the project folder**
    ```bash
    cd Statistical-Foundation-of-Data-Sciences
+3. **Open the desired practical notebook**
+   -Using Jupyter Notebook:
+   ```bash
+   jupyter notebook
