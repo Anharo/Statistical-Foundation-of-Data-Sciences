@@ -92,3 +92,6 @@ Practical 1 Testing Pandas and Numpy/Practical_1.ipynb
 
 Using Google Colab:
 Upload the .ipynb file from the folder into Colab and run it there.
+4. **Install required Python libraries (if not already installed)**
+   ```bash
+   pip install numpy pandas scipy matplotlib seaborn
