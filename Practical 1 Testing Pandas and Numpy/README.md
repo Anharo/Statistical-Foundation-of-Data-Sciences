@@ -1,5 +1,4 @@
 # **Practical 1**  - Testing Pandas and Numpy
----
 
 ## 🛠️ Instructions
 - A **synthetic dataset** was created with some `NaN` values to simulate real-world scenarios.  
