@@ -83,7 +83,7 @@ To implement statistical concepts step by step, understand their use in real-wor
 Navigate into the project folder
 
    ```bash
-      cd Statistical-Foundation-of-Data-Sciences
+   cd Statistical-Foundation-of-Data-Sciences
 Open the desired practical notebook
 
 If using Jupyter Notebook:
@@ -96,7 +96,7 @@ Upload the .ipynb file to Colab and run it there.
 
 Make sure you have the required Python libraries installed:
 
-```bash
+   ```bash
    pip install numpy pandas scipy matplotlib seaborn
 Run the cells in the notebook to view solutions.
 
