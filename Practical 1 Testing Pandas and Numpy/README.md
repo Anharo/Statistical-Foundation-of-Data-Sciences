@@ -82,21 +82,4 @@ To implement statistical concepts step by step, understand their use in real-wor
    git clone https://github.com/Anharo/Statistical-Foundation-of-Data-Sciences.git
 Navigate into the project folder
 
-   ```bash
-   cd Statistical-Foundation-of-Data-Sciences
-Open the desired practical notebook
-
-If using Jupyter Notebook:
-jupyter notebook
-Then open the notebook, e.g.
-Practical 1 Testing Pandas and Numpy/Practical_1.ipynb
-
-If using Google Colab:
-Upload the .ipynb file to Colab and run it there.
-
-Make sure you have the required Python libraries installed:
-
-   ```bash
-   pip install numpy pandas scipy matplotlib seaborn
-Run the cells in the notebook to view solutions.
-
+cd Statistical-Foundation-of-Data-Sciences
