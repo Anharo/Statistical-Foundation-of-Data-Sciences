@@ -80,6 +80,6 @@ To implement statistical concepts step by step, understand their use in real-wor
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Anharo/Statistical-Foundation-of-Data-Sciences.git
-Navigate into the project folder
-
-cd Statistical-Foundation-of-Data-Sciences
+2. **Navigate into the project folder**
+   ```bash
+   cd Statistical-Foundation-of-Data-Sciences
