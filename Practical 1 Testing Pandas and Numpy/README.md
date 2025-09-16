@@ -1,14 +1,4 @@
-# Statistical Foundation of Data Sciences (CSU1658 Practical)
-
-This repository contains solutions for the **Statistical Foundation of Data Sciences (CSU1658 Practical)**.  
-All work was completed in **Google Colab** using Python libraries such as **NumPy and Pandas**.  
-
----
-
-## 📌 Subject Details
-- **Subject Name:** Statistical Foundation of Data Sciences  
-- **Subject Code:** CSU1658 Practical  
-- **Practical 1**  - Testing Pandas and Numpy
+# **Practical 1**  - Testing Pandas and Numpy
 ---
 
 ## 🛠️ Instructions
