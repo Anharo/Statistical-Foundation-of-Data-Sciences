@@ -6,7 +6,8 @@ It serves as a collection of code and notes to practice and understand the stati
 - Practical 1
 - Practical 2
 - Practical 3
-- 
+- Practical 4
+- Practical 5
 '''Will be updated as we do the practicals in our course.'''
 ---
 ## 🎯 Goal
