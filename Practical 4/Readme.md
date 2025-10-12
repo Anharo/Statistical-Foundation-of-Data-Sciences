@@ -34,7 +34,7 @@ Each record represents one professor along with demographic and professional det
 | **NumPy** | Numerical computations and descriptive statistics |
 | **Matplotlib (Pyplot)** | Visualization of data distributions and categorical variables |
 | **Seaborn** | Enhanced plotting and styling of graphs |
-| **Jupyter Notebook / Google Colab** | Interactive environment for coding and visualization |
+| **Google Colab** | Interactive environment for coding and visualization |
 
 ---
 
