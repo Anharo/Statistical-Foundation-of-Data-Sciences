@@ -3,7 +3,7 @@
 ## 🧭 Objective
 The aim of this practical is to perform **probability and hypothesis testing** using the **Teachers’ Rating Dataset**.  
 The practical focuses on calculating probabilities of evaluation scores and conducting a **two-tailed hypothesis test** based on a normal distribution.  
-Python libraries such as **NumPy**, **pandas**, and **Matplotlib** were used to perform computations and visualize results.
+Python libraries such as **NumPy**, **pandas** were used to perform computations.
 
 ---
 
