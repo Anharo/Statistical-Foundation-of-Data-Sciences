@@ -35,3 +35,17 @@ The dataset contains information about **university instructors** and their teac
 
 ---
 
+## 🧾 Results Summary
+| **Test**            | **Question**                                               | **Hypothesis Decision**            | **Interpretation**                                                                                                                                                                                                                  |
+| ------------------- | ---------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Q1. T-Test**      | Does gender affect teaching evaluation rates?              | p-value ≥ 0.05 → Fail to reject H₀ | Gender **does not affect** teaching evaluation scores. There is **no significant difference** in evaluation means between male and female instructors.                                                                              |
+| **Q2. ANOVA**       | Does beauty score for instructors differ by age?           | Fail to reject H₀                  | There is **no significant difference** in beauty scores across different age groups. Age **does not influence** beauty ratings.                                                                                                     |
+| **Q3. Chi-Square**  | Is there an association between tenure and gender?         | Fail to reject H₀                  | **Tenure** and **gender** are **independent**. There is **no significant association** between the two categorical variables.                                                                                                       |
+| **Q4. Correlation** | Is teaching evaluation score correlated with beauty score? | p-value > 0.05 → Fail to reject H₀ | There is **no significant correlation** between evaluation and beauty scores. Since **corr < 0**, the relationship is **weak and negative**, meaning as beauty increases, evaluation slightly decreases (though not significantly). |
+
+---
+## Conclusion
+
+All statistical tests indicate no significant relationships between the tested variables. Gender, age, and tenure show no measurable effect on evaluation or beauty scores, and the weak negative correlation suggests that beauty does not meaningfully influence teaching evaluations in this dataset.
+
+
