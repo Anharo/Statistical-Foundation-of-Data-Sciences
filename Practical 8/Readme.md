@@ -75,7 +75,6 @@ It is used to predict whether a patient has diabetes based on certain physiologi
 -BMI and Age appeared as secondary splitting factors.
 
 ## 🧮 Key Formulas Used
-## 📊 Entropy, Gini Index, and Information Gain
 
 ## 📊 Entropy, Gini Index, and Information Gain
 
