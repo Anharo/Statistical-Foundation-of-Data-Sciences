@@ -110,3 +110,13 @@ Where:
 - *n_child* = number of samples in each child node  
 - *n_total* = total number of samples before the split  
 - *Entropy(child)* = Entropy after the split
+
+## 🏁 Conclusion
+
+This practical demonstrated the use of Decision Tree Classifiers with both Entropy and Gini Index criteria.
+Both models identified Glucose as the most significant feature for diabetes prediction.
+The key learnings include:
+  - Building and interpreting Decision Trees
+  - Understanding Entropy, Information Gain, and Gini Index
+  - Visualizing splits for clear interpretability
+Decision Trees provided an intuitive and explainable way to predict medical outcomes effectively.
