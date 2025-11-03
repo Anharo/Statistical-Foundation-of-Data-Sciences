@@ -77,43 +77,37 @@ It is used to predict whether a patient has diabetes based on certain physiologi
 ## 🧮 Key Formulas Used
 ## 📊 Entropy, Gini Index, and Information Gain
 
+## 📊 Entropy, Gini Index, and Information Gain
+
 ### 🔹 Entropy
-The entropy measures the impurity or randomness in the data.  
-It is calculated as:
+Entropy measures the impurity or uncertainty in a dataset.  
+It is calculated using the formula:
 
-\[
-Entropy = - \sum p_i \log_2(p_i)
-\]
+**Entropy = − Σ ( pᵢ × log₂(pᵢ) )**
 
-Where:
-- \( p_i \) = probability of class \( i \)
+Where:  
+- *pᵢ* = probability of class *i*
 
 ---
 
 ### 🔹 Gini Index
-The Gini Index measures the degree of inequality among values.  
-It is calculated as:
+The Gini Index measures the impurity in a dataset and is calculated as:
 
-\[
-Gini = 1 - \sum p_i^2
-\]
+**Gini = 1 − Σ ( pᵢ² )**
 
-Where:
-- \( p_i \) = probability of class \( i \)
+Where:  
+- *pᵢ* = probability of class *i*
 
 ---
 
 ### 🔹 Information Gain
-Information Gain represents the reduction in entropy after splitting the dataset based on an attribute.
+Information Gain (IG) represents the reduction in entropy after splitting the dataset based on an attribute.  
+It is calculated as:
 
-\[
-IG = Entropy_{parent} - \sum \left( \frac{n_{child}}{n_{total}} \times Entropy_{child} \right)
-\]
+**IG = Entropy(parent) − Σ ( (n_child / n_total) × Entropy(child) )**
 
-Where:
-- \( Entropy_{parent} \) = entropy of the original dataset  
-- \( n_{child} \) = number of samples in each child node  
-- \( n_{total} \) = total number of samples before the split  
-- \( Entropy_{child} \) = entropy after the split
-
-
+Where:  
+- *Entropy(parent)* = Entropy of the original dataset  
+- *n_child* = number of samples in each child node  
+- *n_total* = total number of samples before the split  
+- *Entropy(child)* = Entropy after the split
