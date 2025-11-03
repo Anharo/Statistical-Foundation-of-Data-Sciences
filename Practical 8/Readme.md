@@ -119,4 +119,5 @@ The key learnings include:
   - Building and interpreting Decision Trees
   - Understanding Entropy, Information Gain, and Gini Index
   - Visualizing splits for clear interpretability
+
 Decision Trees provided an intuitive and explainable way to predict medical outcomes effectively.
