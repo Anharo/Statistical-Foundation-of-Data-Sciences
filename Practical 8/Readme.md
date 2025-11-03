@@ -48,7 +48,7 @@ It is used to predict whether a patient has diabetes based on certain physiologi
 - Dependent variable: `Outcome`
 
 ### 3️⃣ Train-Test Split
--Split data for training and testing.
+- Split data for training and testing.
 
 ### 4️⃣ Model Building
 - Build two models using DecisionTreeClassifier:
@@ -61,7 +61,7 @@ It is used to predict whether a patient has diabetes based on certain physiologi
 - Visualized both the decision trees.
 
 ### 6️⃣ Manual Calculation
--Compute Entropy, Information Gain, and Gini Index for the feature Glucose to verify root node selection.
+- Compute Entropy, Information Gain, and Gini Index for the feature Glucose to verify root node selection.
 
 ## 🧾 Results Summary
 
