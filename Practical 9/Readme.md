@@ -46,7 +46,13 @@ It contains 150 samples of iris flowers, categorized into three species — **Se
 ### **Step 3 – Train-Test Split & Model Training**
 - Split dataset into **80% training** and **20% testing** data.  
 - Trained a **KNN model** using `KNeighborsClassifier`.
-
+  
+### Step 4: Making the Confusion Matrix & Predicting Accuracy Score
+- Made Confusion Matrix of checking how accurate the classification were.
+  
+### Step 5: Making Classification Report
+- Made Classification report for detailed analysis of model.
+  
 ### **Step 6 – Comparing Error Rate with K Value**
 - Tested multiple K values (1–20).  
 - Calculated and plotted **Mean Error vs K** to analyze performance.
@@ -55,6 +61,9 @@ It contains 150 samples of iris flowers, categorized into three species — **Se
 - Determined the **optimal K** with minimum error rate.  
 - Retrained the model with best K and evaluated accuracy.
 
+### Step 7: Plot the error values against K values
+- Plotted the error values against K values.
+  
 ### **Step 9 – Visualizing Test Results**
 - Visualized **decision boundaries** using Petal Length and Petal Width.  
 - Displayed classification zones for each flower species.
