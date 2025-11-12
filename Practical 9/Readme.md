@@ -71,9 +71,9 @@ It contains 150 samples of iris flowers, categorized into three species — **Se
 ---
 
 ## 🧾 Results Summary
-- The **best K value** was found to be around **K = 5**.  
-- The model achieved **>95% accuracy** on the test dataset.  
-- The **error rate** decreased initially and stabilized after K=5, showing balanced bias-variance trade-off.  
+- The **best K value** was found to be around **K = 2**.  
+- The model achieved **~100% accuracy** on the test dataset.  
+- The **error rate** decreased initially and stabilized after K=2, showing balanced bias-variance trade-off.  
 - The **visualization** clearly separated all three species regions.
 
 ---
