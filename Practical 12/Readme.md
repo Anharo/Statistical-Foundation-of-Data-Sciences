@@ -227,11 +227,3 @@ In this practical:
 - ✅ The deterministic model confirms the Monte Carlo estimates by producing a similar value for `E[X^2]`.  
 
 ---
-
-## References
-
-1. Metropolis et al., "Equation of State Calculations by Fast Computing Machines", 1953.  
-2. C.P. Robert & G. Casella, "Monte Carlo Statistical Methods".  
-3. A. Gelman et al., "Bayesian Data Analysis".
-
----
