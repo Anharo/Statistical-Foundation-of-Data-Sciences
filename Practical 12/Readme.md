@@ -169,8 +169,8 @@ We compare the result of `E[X^2]` using:
 
 | Method                | Estimated Value of E[X²] | Nature        |
 |-----------------------|--------------------------|--------------|
-| Metropolis Algorithm  | ≈ 1.0                    | Stochastic   |
-| Deterministic Model   | ≈ 1.0                    | Deterministic|
+| Metropolis Algorithm  | 1.00067                  | Stochastic   |
+| Deterministic Model   | 0.99999                  | Deterministic|
 | True Value (N(0,1))   | 1.0                      | Analytical   |
 
 Both implemented methods give values close to the true theoretical value.
