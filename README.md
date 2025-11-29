@@ -11,7 +11,10 @@ It serves as a collection of code and notes to practice and understand the stati
 - Practical 6
 - Practical 7
 - Practical 8
-'''Will be updated as we do the practicals in our course.'''
+- Practical 9
+- Practical 10
+- Practical 11
+- Practical 12
 ---
 ## 🎯 Goal
 To build a strong understanding of statistics through hands-on coding and real-world examples, laying the foundation for advanced data science and machine learning concepts. 
